@@ -12,7 +12,7 @@
 
 ### API-1. Create api directory and make initial Dockerfile in the api directory
 
-1) In the home directory, 'git checkout -b api-1'
+1) In the home directory, 'git checkout -b 01-api-1'
 
 1) Dockerfile
    ```Dockerfile
